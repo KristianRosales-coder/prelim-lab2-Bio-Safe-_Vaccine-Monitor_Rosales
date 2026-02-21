@@ -1,0 +1,14 @@
+c:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\bin\Debug\net10.0\Rosales_ScenarioB.exe
+c:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\bin\Debug\net10.0\Rosales_ScenarioB.dll
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.AssemblyInfoInputs.cache
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.AssemblyInfo.cs
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.dll
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\refint\Rosales_ScenarioB.dll
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.pdb
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\bin\Debug\net10.0\Rosales_ScenarioB.deps.json
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\bin\Debug\net10.0\Rosales_ScenarioB.runtimeconfig.json
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\bin\Debug\net10.0\Rosales_ScenarioB.pdb
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\Rosales_ScenarioB.genruntimeconfig.cache
+C:\Users\Kristian\CSharpProjects\Rosales_ScenarioB\obj\Debug\net10.0\ref\Rosales_ScenarioB.dll
